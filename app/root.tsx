@@ -35,6 +35,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="uXla9SAf8wF83jmQNvjE3XMhrpE3taYSdLP01YSFQv8" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZW47EYYWM"></script>
         <script>
           {`
